@@ -1,4 +1,4 @@
-<h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br>
+<h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br/>
 
 - 🔭 I’m currently working on spring framework, React, SQL, Linux, Hibernate, JAVA, JAVASCRIPT.
 - 🌱 I’m currently learning Reactive Progrramming, NoSQL, Typescript, MongoDB.
