@@ -14,15 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/Partho99/">
-  <img align="center" alt="Partho's Unique Badge" width="150px" src="https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif" />
-</a>
-<a href="https://github.com/Partho99/">
-  <img align="center" alt="Partho's Unique Badge" width="650px" src="https://res.cloudinary.com/ritikadas/image/upload/v1595146432/My_Images/GitHub_Residency_jzqahp.gif" />
-</a><br><br>
-<p align="center" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=Partho-Das" alt="Partho-Das"/>
-</p>
+### Now on Spotify, I'm listening to ... 
+  <p align="center"><img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt=" Not listening to Spotify right now (Advertisement)" width="550"/></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Partho99&show_icons=true&theme=vue-dark" />
