@@ -8,9 +8,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.<br>
 
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho99&layout=compact&theme=radical" />
+</p>
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Partho99&show_icons=true&theme=vue-dark" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho99&layout=compact&theme=radical" />
-</p>
+
