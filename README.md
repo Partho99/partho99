@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: partho.swe@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Partho99&show_icons=true&theme=vue-dark" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho99&layout=compact&theme=radical" />
+</p>
