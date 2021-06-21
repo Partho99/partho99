@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.<br>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partho99)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Partho99)](https://github.com/anuraghazra/github-readme-stats)
 
   
   <p align="center">
