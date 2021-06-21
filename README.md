@@ -5,6 +5,8 @@
 - 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/partho-das-5a7843157/), where I get to know an ounce more about topics I care for.<nbsp>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.<br>
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partho99)](https://github.com/anuraghazra/github-readme-stats)
 
   
   <p align="center">
