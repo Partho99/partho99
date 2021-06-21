@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on spring framework, React, SQL, Linux, Hibernate, JAVA, JAVASCRIPT.
 - 🌱 I’m currently learning Reactive Progrramming, NoSQL, Typescript, MongoDB.
 - 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/partho-das-5a7843157/), where I get to know an ounce more about topics I care for.<nbsp>
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.<br>
 
   <p align="center">
