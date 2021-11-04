@@ -14,17 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partho99&layout=compact&theme=radical" />
 </p>
  
-<p align="center">
-    <a href="https://twitter.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
-    <a href="https://linkedin.com/in/partho99" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" />
-   </a>
-    <a href="https://instagram.com" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />
-    </a>
-  </p>
- 
    ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=db1f1f&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -41,3 +30,17 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+ 
+ 
+ 
+ <p align="center">
+    <a href="https://twitter.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
+    <a href="https://linkedin.com/in/partho99" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" />
+   </a>
+    <a href="https://instagram.com" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" />
+    </a>
+  </p>
+ 
