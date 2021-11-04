@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about  their professions like sandwich makers, farmers, decorators and even coders.<br>
   
-   ![Ruby](https://img.shields.io/badge/-Ruby-b80000?style=flat-square&logo=ruby&logoColor=white)
+   ![Ruby](https://img.shields.io/badge/-java?style=flat-square&logo=java&logoColor=white)
   ![Rails](https://img.shields.io/badge/-Rails-b80000?style=flat-square&logo=rubyonrails&logoColor=white)
   ![Roda](https://img.shields.io/badge/-RODA-b80000?style=flat-square&logo=ruby&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
