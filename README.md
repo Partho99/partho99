@@ -1,4 +1,5 @@
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <div align="center">
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br/>
 
