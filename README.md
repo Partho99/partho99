@@ -24,7 +24,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL?style=flat-square&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-Black?style=flat-square&logo=mysql)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
