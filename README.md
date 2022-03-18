@@ -32,12 +32,13 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
  ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=Oracle)
  
+ <a href="https://stackexchange.com/users/9221177"><img src="https://stackexchange.com/users/flair/9221177.png" width="208" height="58" alt="profile for Partho on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Partho on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+ 
  <p align="center">
     <a href="https://twitter.com/partho_das99" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
     <a href="https://linkedin.com/in/partho99" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" />
    </a>
-  <a href="https://stackexchange.com/users/9221177"><img src="https://stackexchange.com/users/flair/9221177.png" width="208" height="58" alt="profile for Partho on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Partho on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
   </p>
  
