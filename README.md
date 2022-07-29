@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about  their professions like sandwich makers, farmers, decorators and even coders.<br>
  
-[![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) [![Followers](https://img.shields.io/github/followers/partho99)](#) [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#)
  
  
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=partho99&theme=light&hide_border=true&include_all_commits=true&count_private=true)
