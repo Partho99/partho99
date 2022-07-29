@@ -41,9 +41,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) [![Followers](https://img.shields.io/github/followers/partho99)](#) [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#)
 
 <a href="https://stackexchange.com/users/9221177/partho?tab=accounts"><img src="https://stackexchange.com/users/flair/9221177.png" width="208" height="58" alt="profile for Partho Das on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Partho Das on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
- <br> <br>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partho.swe@gmail.com) &emsp;[![LinkedIn - Partho Das](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho99)&emsp;
-[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/partho_das99)&emsp;[![Facebook - Partho Das](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/partho09)&emsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=partho99&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
  
+ <br> <br>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partho.swe@gmail.com) &emsp;[![LinkedIn - Partho Das](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho99)&emsp;
+[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/partho_das99)&emsp;[![Facebook - Partho Das](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/partho09)&emsp;
