@@ -14,9 +14,9 @@
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about  their professions like sandwich makers, farmers, decorators and even coders.<br>
  
  
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=partho99&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=partho99&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partho99&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
  
