@@ -11,9 +11,9 @@
  </div>
  
  
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=partho99&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=partho99&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=partho99&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partho99&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=partho99&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 <br>
 
    ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=db1f1f&labelColor=%23F7DF1C&color=%23FFCE5A)
