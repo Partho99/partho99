@@ -1,6 +1,6 @@
 <h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br/>
 
-| [![Partho Das](https://img.shields.io/badge/SE-PARTHO99)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#) |
+| [![Partho Das](https://img.shields.io/badge/partho99)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#) |
 --| --| --| --|
 
 <div align="center">
