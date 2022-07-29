@@ -1,5 +1,8 @@
 <h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br/>
 
+| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#) |
+--| --| --| --|
+
 <div align="center">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </div>
