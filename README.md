@@ -40,7 +40,7 @@
  
 
 &emsp;&emsp;&emsp;&emsp;<a href="https://stackexchange.com/users/9221177/partho?tab=accounts"><img src="https://stackexchange.com/users/flair/9221177.png" width="208" height="58" alt="profile for Partho Das on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Partho Das on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
-&emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
+
  
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partho.swe@gmail.com) &emsp;[![LinkedIn - Partho Das](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho99)&emsp;
