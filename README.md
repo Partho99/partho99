@@ -10,16 +10,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about  their professions like sandwich makers, farmers, decorators and even coders.<br>
  
+[![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#)
+ 
  
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=partho99&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=partho99&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partho99&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
- 
- [![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#) |
---| --| --| --|
 
- 
    ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=db1f1f&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
