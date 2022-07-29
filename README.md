@@ -10,9 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about  their professions like sandwich makers, farmers, decorators and even coders.<br>
  
-[![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) [![Followers](https://img.shields.io/github/followers/partho99)](#) [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#)
- 
- 
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=partho99&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=partho99&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partho99&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -39,6 +36,8 @@
  
 <!--  <a href="https://stackexchange.com/users/9221177"><img src="https://stackexchange.com/users/flair/9221177.png" width="208" height="58" alt="profile for Partho on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Partho on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) [![Followers](https://img.shields.io/github/followers/partho99)](#) [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#)
 
 <a href="https://stackexchange.com/users/9221177/partho?tab=accounts"><img src="https://stackexchange.com/users/flair/9221177.png" width="208" height="58" alt="profile for Partho Das on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Partho Das on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
  <br> <br>[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partho.swe@gmail.com) &emsp;[![LinkedIn - Partho Das](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partho99)&emsp;
