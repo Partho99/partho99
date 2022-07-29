@@ -1,8 +1,5 @@
 <h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br/>
 
-| [![Partho Das](https://img.shields.io/badge/partho99)](#) | [![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#) |
---| --| --| --|
-
 <div align="center">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </div>
@@ -18,6 +15,9 @@
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=partho99&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=partho99&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
+ 
+ [![Profile Views](https://komarev.com/ghpvc/?username=partho99&color=red)](#) | [![Followers](https://img.shields.io/github/followers/partho99)](#) | [![Stars](https://img.shields.io/github/stars/partho99?label=Profile%20Stars&logo=Profile%20stars&logoColor=r)](#) |
+--| --| --| --|
 
  
    ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=db1f1f&labelColor=%23F7DF1C&color=%23FFCE5A)
